@@ -38,16 +38,7 @@
                   <a class="nav-link" aria-current="page" href="http://127.0.0.1:8000/">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Serie</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Peliculas</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Informacion sobre One Piece</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="http://127.0.0.1:8000/login">LOGIN</a>
+                  <a class="nav-link" href="http://127.0.0.1:8000/login">Login</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="http://127.0.0.1:8000/formulario">Sign In</a>
@@ -62,17 +53,17 @@
         <div
           class="p-5 text-center bg-image"
           style="
-            background-image: url('https://i.blogs.es/259581/one-piece/1366_2000.jpeg');
+            background-image: url('https://wallpapertag.com/wallpaper/full/9/8/e/481355-best-spyro-the-dragon-wallpaper-1920x1080-pc.jpg');
             height: 400px;
           "
         >
           <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
             <div class="d-flex justify-content-center align-items-center h-100">
               <div class="text-white">
-                <h1 class="mb-3">One Piece</h1>
-                <h4 class="mb-3">Creador: Eiichirō Oda</h4>
+                <h1 class="mb-3">Retro Videogames</h1>
+                <h4 class="mb-3">PS2, PS3</h4>
                 <a class="btn btn-outline-light btn-lg" href="#!" role="button"
-                >Live action</a
+                >Videogames</a
                 >
               </div>
             </div>
@@ -152,9 +143,9 @@
   <!-- Grid container -->
 
   <!-- Copyright -->
-  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+  <div class="text-center p-3" style="background-color: rgba(116, 62, 140, 0.694);">
     © 2023 Copyright:
-    <a class="text-white" href="">Bernardo Paredes De Santos</a>
+    <a class="text-white" href="">Ana Lucia Guzmán De Loera</a>
   </div>
   <!-- Copyright -->
 </footer>

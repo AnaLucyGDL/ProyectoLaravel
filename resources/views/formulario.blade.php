@@ -56,7 +56,7 @@
     <p style="color: red">{{$message}}</p>
     @enderror
     <!-- Submit button -->
-    <button type="submit" class="btn btn-primary btn-block mb-4">Place order</button>
+    <button type="submit" class="btn btn-primary btn-block mb-4">Enter</button>
   </form>
 
   @endsection
